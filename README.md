@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipstrom&count_private=true&hide=stars&show_icons=true&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipstrom&layout=compact&exclude_repo=Prediktiv-modellering&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,6 +7,7 @@
 
 <!--
 **filipstrom/filipstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
