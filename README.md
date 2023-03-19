@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipstrom&count_private=true&hide=stars)](https://github.com/filipstrom/github-readme-stats)
+[![filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipstrom&count_private=true&hide=stars&show_icons=true)](https://github.com/filipstrom/github-readme-stats)
 
 
 
