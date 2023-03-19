@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipstrom&count_private=true&hide=stars&show_icons=true)](https://github.com/filipstrom/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipstrom&layout=compact)](https://github.com/filipstrom/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipstrom&layout=compact&exclude_repo=Prediktiv-modellering)](https://github.com/filipstrom/github-readme-stats)
+
 
 
 
