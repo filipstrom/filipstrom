@@ -1,6 +1,6 @@
 
-[![filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipstrom&count_private=true&hide=stars&show_icons=true&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipstrom&layout=compact&exclude_repo=Prediktiv-modellering&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![filip's GitHub stats](github-stats-git-dependabot-npmandy-15d326-filipstroms-projects.vercel.app/api?username=filipstrom&count_private=true&hide=stars&show_icons=true&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-stats-git-dependabot-npmandy-15d326-filipstroms-projects.vercel.app/api/top-langs/?username=filipstrom&layout=compact&exclude_repo=Prediktiv-modellering&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
