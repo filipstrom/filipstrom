@@ -1,7 +1,7 @@
 
 [![filip's GitHub stats](https://github-readme-stats-smoky-two-14.vercel.app/api?username=filipstrom&count_private=true&hide=stars&show_icons=true&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-smoky-two-14.vercel.app/api/top-langs/?username=filipstrom&layout=compact&exclude_repo=Prediktiv-modellering&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats-smoky-two-14.vercel.app/api/wakatime?username=filipstrom)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-smoky-two-14.vercel.app/api/wakatime?username=@filipstrom)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
